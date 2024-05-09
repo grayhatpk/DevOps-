@@ -1,2 +1,2 @@
 # DevOps-
-Integrates the definition, projects for the DevOps
+Beginning to Advanced projects for the DevOps
